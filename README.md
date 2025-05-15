@@ -39,6 +39,7 @@ This project is both a **learning tool** and a **technical playground**, designe
 
 ## 📂 Project Structure
 
+```text
 ml_scratch_playground/
 ├── core/ # Model implementations
 ├── utils/ # Helpers (metrics, preprocessing, etc.)
@@ -46,6 +47,7 @@ ml_scratch_playground/
 ├── tests/ # Basic unit tests
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
